@@ -24,4 +24,4 @@ You can run the problem encodings, i.e. get solutions to the sample problem inst
 
 ``$ clingo ./instances/xxx.lp ./src/yyy.lp 0``
 
-where `xxx` is the name of a test instance (e.g. `sudoku1.lp`) and `yyy` is the name of the corresponding problem encoding (e.g. `sucoku.lp`).
+where `xxx` is the name of a test instance (e.g. `sudoku1.lp`) and `yyy` is the name of the corresponding problem encoding (e.g. `sudoku.lp`).
